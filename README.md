@@ -1,2 +1,5 @@
 # daily-leetcode
-My solutions to my daily leetcode practice problems.
+Solutions to my daily leetcode practice problems.
+
+## Solutions:
+- Two Sum
