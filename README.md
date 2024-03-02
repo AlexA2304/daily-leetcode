@@ -8,4 +8,8 @@ Solutions to my daily leetcode practice problems.
 - **Day 2:**
   - Merge Two Sorted Linked Lists
   - Best Time to Buy and Sell Stock
-  - Valid Palindrome 
+  - Valid Palindrome
+- **Day 3:**
+  - Invert Binary Tree
+  - Valid Anagram
+  - Binary Search
