@@ -16,3 +16,7 @@ Solutions to my daily leetcode practice problems.
 - **Day 4:**
   - Flood Fill
   - LCA of BST
+- **Day 5:**
+  - Balanced Binary Tree
+  - Linked List Cycle
+  - Implement Queue using Stacks
