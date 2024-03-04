@@ -13,3 +13,6 @@ Solutions to my daily leetcode practice problems.
   - Invert Binary Tree
   - Valid Anagram
   - Binary Search
+- **Day 4:**
+  - Flood Fill
+  - LCA of BST
