@@ -24,3 +24,7 @@ Solutions to my daily leetcode practice problems.
   - First Bad Version
   - Ransom Note
   - Climbing Stairs
+- **Day 7:**
+  - Longest Palindrome
+  - Reverse Linked List
+  - Majority Element
