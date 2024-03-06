@@ -20,3 +20,7 @@ Solutions to my daily leetcode practice problems.
   - Balanced Binary Tree
   - Linked List Cycle
   - Implement Queue using Stacks
+- **Day 6:**
+  - First Bad Version
+  - Ransom Note
+  - Climbing Stairs
