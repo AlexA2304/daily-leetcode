@@ -1,6 +1,5 @@
-# daily-leetcode
-Solutions to my daily leetcode practice problems.
-
+# Solutions to my daily LeetCode practice problems
+### [Check out my profile here!](https://leetcode.com/user8148n/) - Over 100 problems solved!
 ## Solutions:
 - **Day 1:**
   - Two Sum
@@ -28,3 +27,9 @@ Solutions to my daily leetcode practice problems.
   - Longest Palindrome
   - Reverse Linked List
   - Majority Element
+- **Day 8:**
+  - Add Binary
+  - Diameter of Binary Tree
+  - Middle of the Linked List
+  - Maximum Depth of Binary Tree
+
