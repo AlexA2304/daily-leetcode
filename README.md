@@ -32,4 +32,7 @@
   - Diameter of Binary Tree
   - Middle of the Linked List
   - Maximum Depth of Binary Tree
+- **Day 9:**
+  - Contains Duplicate
+  - Maximum Subarray
 
