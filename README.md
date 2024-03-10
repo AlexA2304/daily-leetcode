@@ -35,4 +35,7 @@
 - **Day 9:**
   - Contains Duplicate
   - Maximum Subarray
+- **Day 10:**
+  - Insert Interval
+  - K Closest Points to Origin
 
